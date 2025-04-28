@@ -1,3 +1,4 @@
+scikit-surprise
 pandas
 numpy
 scikit-learn
@@ -5,3 +6,4 @@ implicit
 fastapi
 uvicorn
 threadpoolctl
+streamlit
